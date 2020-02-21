@@ -16,7 +16,8 @@
 title: Volta River Commodities
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Dataset of commodities that crossed the Volta River during the colonial period in West Africa
+  Dataset of commodities that crossed the Volta River
+  during the colonial period in West Africa
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
