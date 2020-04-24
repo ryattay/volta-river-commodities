@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/traffic-merchandise-landing.jpg
-    image_caption: "Kete-Krachi District Report, 1938: [Endangered Archives Programme](https://eap.bl.uk/archive-file/EAP541-1-3-57)"
+    image_caption: "Kete-Krachi District Report, 1938: [**Endangered Archives Programme**](https://eap.bl.uk/archive-file/EAP541-1-3-57)"
     alt: "A document with trade statistics from the Kete-Krachi District in the Gold Coast in 1937-1938."
     title: "Sources"
     excerpt: "A description of the documents in the Ghanaian national archives with trade statistics."
@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Read more"
     btn_class: "btn--info"
   - image_path: /assets/images/numbers-landing.jpg
-    image_caption: "Kete-Krachi District Report, 1938: [Endangered Archives Programme](https://eap.bl.uk/archive-file/EAP541-1-3-57)"
+    image_caption: "Kete-Krachi District Report, 1938: [**Endangered Archives Programme**](https://eap.bl.uk/archive-file/EAP541-1-3-57)"
     alt: "A document with a table of numbers from the Kete-Krachi District in the Gold Coast in 1937-1938."
     title: "Data"
     excerpt: "A description of the data available for download."
