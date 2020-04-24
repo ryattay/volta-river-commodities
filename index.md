@@ -13,11 +13,11 @@ feature_row:
   - image_path: assets/images/hausa-trader.jpg
     image_caption: "Hausa Trader, 1925: [**BMArchives**](http://www.bmarchives.org/items/show/57785)"
     alt: "A photograph of a Hausa trader from 1925"
-    title: "History"
+    title: ""
     exerpt: ""
     url: "https://cartyrya.github.io/volta-river-commodities/history/"
     btn_label: "History"
-    btn_class: "btn--info"
+    btn_class: ""
   - image_path: /assets/images/traffic-merchandise-landing.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Placeholder image 2"
