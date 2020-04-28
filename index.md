@@ -36,6 +36,6 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-{% include feature_row id="intro" type="wide" text-align="justify" %}
+{% include feature_row id="intro" type="wide" style="justify" %}
 
 {% include feature_row %}
