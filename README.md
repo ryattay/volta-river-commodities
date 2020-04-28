@@ -1,2 +1,3 @@
-# volta-river-commodities
-Publishing a dataset with commodities moving across the Volta River
+# Volta River Commodities
+
+A website for publishing a dataset with commodities that moved across the Volta River in West Africa.
