@@ -5,17 +5,16 @@ title: "History"
 
 In West African history, rivers feature as important conduits of trade and transportation. River traffic carried important commodities like gold and salt along the Niger, Senegal, and Volta Rivers. The trade in gold, in particular, facilitated the development of centralized West African states.
 
-![Major Rivers in West Africa](../assets/images/west-africa-rivers.jpg?raw=true) <!--http://exploringafrica.matrix.msu.edu/curriculum/unit-four/module-seventeen-activity-two/-->
-
-
+<figure style="width: 300px" class="align-left">
+  <img src="../assets/images/west-africa-rivers.jpg" alt="Major Rivers in West Africa">
+  <figcaption>Major Rivers in West Africa: <a href="http://exploringafrica.matrix.msu.edu/curriculum/unit-four/module-seventeen-activity-two/">Exploring Africa</a>.</figcaption>
+</figure> 
 
 Although the Volta River does not stretch across the region as far as the Niger River does, it remains an important nexus of trade in West Africa. One of the most important commodities traded along the Volta River is salt. From at least the sixteenth to the twentieth century, traders moved salt produced in lagoons along the coast up the river in canoes.
 
 In the nineteenth century, trade along the Volta River increased due to the intraregional trade between the Asante Empire and the Sokoto Caliphate. After the establishment of the Sokoto Caliphate in 1804, the caravan trade increased significantly, radiating outward from the Caliphate to major trading hubs across the region. One of these trading hubs, Salaga, formed on the bank of the Volta River, where the caravans met traders from the Asante Empire. At Salaga, kola nuts from the forests of the Asante Empire flowed out, while textiles, leather, livestock, jewelry, and natron flowed in.
 
 With the onset of colonial rule by the turn of the twentieth century, the British claimed the Volta River, and the Germans the territory to its east. Conflicts between the two European empires affected trade along the Volta River, where district commissioners and preventative station officers sought to control the flow of goods. Nonetheless, the river-born and caravan trade continued, with new trade routes designed by traders to bypass the colonial controls.
-
-![Hausa Trader in the Gold Coast](../assets/images/hausa-trader.jpg?raw=true) <!--http://www.bmarchives.org/items/show/57785-->
 
 <figure class="align-center">
   <img src="../assets/images/hausa-trader.jpg" alt="Hausa Trader in the Gold Coast">
