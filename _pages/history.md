@@ -5,10 +5,10 @@ title: "History"
 
 In West African history, rivers feature as important conduits of trade and transportation. River traffic carried important commodities like gold and salt along the Niger, Senegal, and Volta Rivers. The trade in gold, in particular, facilitated the development of centralized West African states.
 
-<figure style="width: 300px" class="align-left">
+<figure style="width: 250px" class="align-left">
   <img src="../assets/images/west-africa-rivers.jpg" alt="Major Rivers in West Africa">
   <figcaption>Major Rivers in West Africa: <a href="http://exploringafrica.matrix.msu.edu/curriculum/unit-four/module-seventeen-activity-two/">Exploring Africa</a>.</figcaption>
-</figure> 
+</figure>
 
 Although the Volta River does not stretch across the region as far as the Niger River does, it remains an important nexus of trade in West Africa. One of the most important commodities traded along the Volta River is salt. From at least the sixteenth to the twentieth century, traders moved salt produced in lagoons along the coast up the river in canoes.
 
