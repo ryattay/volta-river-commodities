@@ -36,4 +36,6 @@ feature_row:
 
 This project began in the national archives in Ghana. Interested in internal trade, I flipped through folders about customs stations, trading routes, and markets. I continued to come across records maintained by customs officials stationed along the Volta River during the colonial period and started to translate the information from paper files into a digital database. I focused on the records that come from upriver stations because of my interest in the twentieth century history of Northern Ghana. For me, the commodity data contained in the records reflects a social and economic history of West African communities connected by the traders who passed through the customs stations. "Volta River Commodities" is a website that takes the first step in exploring that history by publishing the commodity database with some contextual information.
 
+
+
 {% include feature_row %}
