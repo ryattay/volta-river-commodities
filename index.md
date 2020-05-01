@@ -38,4 +38,4 @@ This digital history project began in the national archives in Ghana. Interested
 
 {% include feature_row %}
 
-Volta River Commodities was built as part of the [Cultural Heritage Informatics initiative](http://chi.anthropology.msu.edu/) at Michigan State University
+Volta River Commodities was built as part of the [Cultural Heritage Informatics initiative](http://chi.anthropology.msu.edu/) at Michigan State University.
