@@ -34,6 +34,8 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-This digital history project began in the national archives in Ghana. Interested in internal trade, I flipped through folders about preventative stations, trading routes, and markets. I continued to come across trade statistics maintained by colonial officials stationed along the Volta River and started to translate the information from paper files into a digital database. I focused on the records from upriver stations because of my interest in the twentieth century history of Northern Ghana. For me, the commodity data contained in the records reflects a social and economic history of West African communities connected by the traders who passed through the preventative stations. "Volta River Commodities" is a website that takes the first step in exploring that history by publishing the commodity database with contextual information.<br/><br/>
+This digital history project began in the national archives in Ghana. Interested in internal trade, I flipped through folders about preventative stations, trading routes, and markets. I continued to come across trade statistics maintained by colonial officials stationed along the Volta River and started to translate the information from paper files into a digital database. I focused on the records from upriver stations because of my interest in the twentieth century history of Northern Ghana. For me, the commodity data contained in the records reflects a social and economic history of West African communities connected by the traders who passed through the preventative stations. Volta River Commodities is a website that takes the first step in exploring that history by publishing the commodity database with contextual information.<br/><br/>
 
 {% include feature_row %}
+
+Volta River Commodities was built as part of the [Cultural Heritage Informatics initiative](http://chi.anthropology.msu.edu/) at Michigan State University
