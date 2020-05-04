@@ -12,7 +12,7 @@ Exports are the best sources for trade statistics during the colonial period in 
 
 Interegional trade remained robust during the colonial period and proved difficult for colonial states to control, especially along land borders. In the early colonial period, the Gold Coast government setup preventative stations along the Volta River to control trade between the Gold Coast and Togoland. The first preventative station was established in 1898. The information recorded by officials at preventative stations prove much more erratic than that at the ports, as data collection policies changed more quickly along with the officials stationed there.
 
-<figure class="align-center">
+<figure style="width: 300px" class="align-center">
   <img src="../assets/images/traffic-merchandise.jpg" alt="A document with trade statistics from the Kete-Krachi District in the Gold Coast in 1937-1938">
   <figcaption>Kete-Krachi District Report, 1938: <a href="https://eap.bl.uk/archive-file/EAP541-1-3-57">Endangered Archives Programme</a>.</figcaption>
 </figure>
