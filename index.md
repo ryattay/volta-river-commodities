@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--info"
   - image_path: /assets/images/traffic-merchandise-landing.jpg
     image_caption: "Kete-Krachi District Report, 1938: [**Endangered Archives Programme**](https://eap.bl.uk/archive-file/EAP541-1-3-57)"
-    alt: "A document with trade statistics from the Kete-Krachi District in the Gold Coast in 1937-1938."
+    alt: "A document with trade statistics from the Kete-Krachi District in the Gold Coast in 1937-1938"
     title: "Sources"
     excerpt: "A description of the documents in the Ghanaian national archives with trade statistics."
     url: "https://cartyrya.github.io/volta-river-commodities/sources/"
@@ -26,7 +26,7 @@ feature_row:
     btn_class: "btn--info"
   - image_path: /assets/images/data-json.jpg
     image_caption: "A JSON File of the Commodities: [**Data Page**](https://cartyrya.github.io/volta-river-commodities/data/)"
-    alt: "An image of a json file available for download on the data page."
+    alt: "An image of a json file available for download on the data page"
     title: "Data"
     excerpt: "A description of the data available for download."
     url: "https://cartyrya.github.io/volta-river-commodities/data/"
