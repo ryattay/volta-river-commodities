@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Read more"
     btn_class: "btn--info"
   - image_path: /assets/images/data-json.jpg
-    image_caption: "A JSON of the Volta River Commodities: [**Data Page**](https://cartyrya.github.io/volta-river-commodities/data/)"
+    image_caption: "A JSON File of the Commodities: [**Data Page**](https://cartyrya.github.io/volta-river-commodities/data/)"
     alt: "An image of a json file available for download on the data page."
     title: "Data"
     excerpt: "A description of the data available for download."
@@ -34,8 +34,8 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-This digital history project began in the national archives in Ghana. Interested in internal trade, I flipped through folders about preventative stations, trading routes, and markets. I continued to come across trade statistics maintained by colonial officials stationed along the Volta River and started to translate the information from paper files into a digital database. I focused on the records from upriver stations because of my interest in the twentieth century history of Northern Ghana. For me, the commodity data contained in the records reflects a social and economic history of West African communities connected by the traders who passed through the preventative stations. Volta River Commodities is a website that takes the first step in exploring that history by publishing the commodity database with contextual information.<br/><br/>
+This digital history project began in [the national archives in Ghana](https://praad.gov.gh/). Interested in internal trade, I flipped through folders about preventative stations, trading routes, and markets. I continued to come across trade statistics maintained by colonial officials stationed along the Volta River and started to translate the information from paper files into a digital database. For me, the commodity data contained in the records reflects a social and economic history of West African communities connected by the traders who passed through the preventative stations. Volta River Commodities is a website that takes the first step in exploring that history by publishing the commodity database with contextual information.<br/><br/>
 
 {% include feature_row %}
 
-Volta River Commodities was built as part of the [Cultural Heritage Informatics initiative](http://chi.anthropology.msu.edu/) at Michigan State University.
+Volta River Commodities was built as part of the [Cultural Heritage Informatics initiative](http://chi.anthropology.msu.edu/) at Michigan State University, where I am [a PhD student in the History Department](https://history.msu.edu/people/graduate-students/ryan-carty/).
