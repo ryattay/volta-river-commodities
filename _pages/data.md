@@ -18,7 +18,7 @@ In entering the information into the tables, I maintained the organization of th
 
 When I left the archives, I had eight CSV files with commodity information for different geographic areas and time periods. To transform these different files into one final dataset, I used [R](https://www.r-project.org/), a computer language for statistical analysis. I first combined the different files into one table by aligning the fields and binding the tables to one another. I then edited the information in each field by standardizing the spelling. In some cases, this standardization process was easy, where the units of measurement contained plural and singular forms. In other cases, I consulted historical texts to confirm place names, measurements, and commodity names.
 
-<figure class="align-center">
+<figure style="width: 484px" class="align-center">
   <img src="../assets/images/r-code-snipet.jpg" alt="An image of R code">
   <figcaption>A Sample of the R Code.</figcaption>
 </figure>
