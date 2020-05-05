@@ -10,7 +10,7 @@ Download Version 0.1 of the Volta River Commodities Data:
 - [JSON](../assets/data/data-0-1.json)
 - [R Project](../assets/data/r-project-0-1.zip)
 
-This Volta River Commodities Data is made available under the Open Data Commons Attribution License: https://opendatacommons.org/licenses/by/1.0/.
+This Volta River Commodities Data is made available under the Open Data Commons Attribution License: [https://opendatacommons.org/licenses/by/1.0/](https://opendatacommons.org/licenses/by/1.0/).
 
 The creation of the digital dataset began with translating information on paper documents into digital tables. In total, I created seven tables organized by area covered and time period. Colonial officials collected the commodity information for different geographies, including preventative stations, districts, provinces, and regions. The different time periods are mentioned above. For me, this made the data entry process faster, since each geographic area and time period has different fields associated with it.
 
