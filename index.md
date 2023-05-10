@@ -13,7 +13,7 @@ feature_row:
     alt: "A photograph of a Hausa trader from 1925"
     title: "History"
     excerpt: "A precolonial history of traders moving across the Volta River."
-    url: "https://cartyrya.github.io/volta-river-commodities/history/"
+    url: "https://ryattay.github.io/volta-river-commodities/history/"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/traffic-merchandise-landing.jpg
@@ -21,15 +21,15 @@ feature_row:
     alt: "A document with trade statistics from the Kete-Krachi District in the Gold Coast in 1937-1938"
     title: "Sources"
     excerpt: "A description of the documents in the Ghanaian national archives with trade statistics."
-    url: "https://cartyrya.github.io/volta-river-commodities/sources/"
+    url: "https://ryattay.github.io/volta-river-commodities/sources/"
     btn_label: "Read more"
     btn_class: "btn--info"
   - image_path: /assets/images/data-json.jpg
-    image_caption: "A JSON File of the Commodities: [**Data Page**](https://cartyrya.github.io/volta-river-commodities/data/)"
+    image_caption: "A JSON File of the Commodities: [**Data Page**](https://ryattay.github.io/volta-river-commodities/data/)"
     alt: "An image of a json file available for download on the data page"
     title: "Data"
     excerpt: "A description of the data available for download."
-    url: "https://cartyrya.github.io/volta-river-commodities/data/"
+    url: "https://ryattay.github.io/volta-river-commodities/data/"
     btn_label: "Read more"
     btn_class: "btn--info"
 ---
